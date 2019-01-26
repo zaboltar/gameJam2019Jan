@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{D02FA2C5-4AB8-11FF-B720-238776FEC11C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CombatSystem/BattleFlowManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CombatSystem/DamageTextController.cs">
     <Files>
-      <File FileName="Assets/Scripts/CombatSystem/BattleFlowManager.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/CombatSystem/BattleFlowManager.cs" Line="11" Column="41" />
+      <File FileName="Assets/Scripts/CombatSystem/PlayerAttack.cs" Line="52" Column="35" />
+      <File FileName="Assets/Scripts/CombatSystem/EnemyAttack.cs" Line="11" Column="5" />
+      <File FileName="Assets/Scripts/CombatSystem/DamageTextController.cs" Line="16" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

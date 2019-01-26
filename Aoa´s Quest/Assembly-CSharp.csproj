@@ -62,6 +62,9 @@
     <Compile Include="Assets\PlayerManager.cs" />
     <Compile Include="Assets\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\BattleFlowManager.cs" />
+    <Compile Include="Assets\Scripts\CombatSystem\DamageTextController.cs" />
+    <Compile Include="Assets\Scripts\CombatSystem\EnemyAttack.cs" />
+    <Compile Include="Assets\Scripts\CombatSystem\PlayerAttack.cs" />
     <Compile Include="Assets\spriteFollow.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/pickle_rick/Documents/Coding/UnityProjects/gameJam2019Jan/Aoa´s Quest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
