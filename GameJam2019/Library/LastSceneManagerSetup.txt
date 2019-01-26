@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/JENNIFER/Documents/GitHub/CretasicBlood/CretasicBlood UnityProject/Assets/Platformer/Scenes/0startScreen.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
