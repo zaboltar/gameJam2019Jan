@@ -59,7 +59,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DamageMaker.cs" />
     <Compile Include="Assets\Scripts\CamEthics.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\BattleFlowManager.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />

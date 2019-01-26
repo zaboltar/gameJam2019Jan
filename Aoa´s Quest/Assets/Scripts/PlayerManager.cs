@@ -89,6 +89,13 @@ public class PlayerManager : MonoBehaviour {
             health += 5f;
             Destroy(other.gameObject);
         }
+
+        if (other.tag == "iWillHurtYou")
+        {
+            health -= 20f;
+            Destroy(other.gameObject);
+        }
+
     }
 
 }

@@ -13,7 +13,7 @@ public class UIManager : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        playerManager = GetComponent<PlayerManager>();
+        playerManager = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerManager>();
         
 	}
 	
