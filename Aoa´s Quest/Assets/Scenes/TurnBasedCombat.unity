@@ -692,8 +692,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   order: 1
-  combat_enemy_HP: 0
-  combat_enemy_maxHP: 0
   combat_enemy_attack: 0
   damageText: {fileID: 1970689053658024, guid: 2a2a3df835ae74e799c2a52eb7595bee, type: 2}
 --- !u!212 &1845417436
@@ -977,6 +975,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fd859f7a832f42a09c241d937b9c34b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerFighter: {fileID: 0}
+  enemy: {fileID: 0}
 --- !u!4 &2133324046
 Transform:
   m_ObjectHideFlags: 0

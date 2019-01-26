@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -72,22 +71,3 @@ public class BattleFlowManager : MonoBehaviour
         battleFieldsReady = false;
     }
 }
-=======
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class BattleFlowManager : MonoBehaviour {
-    
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-}
->>>>>>> 33059d0c30e33a901659a5c0e6888b676484cdc1
