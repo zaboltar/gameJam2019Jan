@@ -59,13 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerManager.cs" />
-    <Compile Include="Assets\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\CamEthics.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\BattleFlowManager.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\DamageTextController.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\EnemyAttack.cs" />
     <Compile Include="Assets\Scripts\CombatSystem\PlayerAttack.cs" />
-    <Compile Include="Assets\spriteFollow.cs" />
+    <Compile Include="Assets\Scripts\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\spriteFollow.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/pickle_rick/Documents/Coding/UnityProjects/gameJam2019Jan/Aoa´s Quest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
