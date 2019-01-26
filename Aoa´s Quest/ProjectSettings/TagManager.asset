@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - iWillHurtYou
+  - collectableTreasure
+  - collectableFood
+  - collectableLiquid
+  - collectableHealth
   layers:
   - Default
   - TransparentFX
