@@ -19,7 +19,7 @@ public class spriteFollow : MonoBehaviour {
 
     void LateUpdate() {
 
-        transform.localPosition = new Vector3(target.localPosition.x, transform.localPosition.y, target.localPosition.z+ zOffset);
+        transform.localPosition = new Vector3(target.localPosition.x, target.localPosition.y, target.localPosition.z+ zOffset);
             
     }
 }
