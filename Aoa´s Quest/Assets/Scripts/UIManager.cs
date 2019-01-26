@@ -28,6 +28,6 @@ public class UIManager : MonoBehaviour {
         thirstBar.maxValue = playerManager.maxThirst;
         thirstBar.value = playerManager.thirst;
 
-        collectedTreasures.text = "$ = " + playerManager.collectedTreasure;
+        collectedTreasures.text = "Treasures = " + playerManager.collectedTreasure;
 	} // EL EJEMPLO USA DONT DESTROY ON LOAD PARA EL CANVAS 
 }

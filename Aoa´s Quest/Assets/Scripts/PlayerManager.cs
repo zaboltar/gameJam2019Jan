@@ -51,7 +51,7 @@ public class PlayerManager : MonoBehaviour {
 
         if (health <= 0)
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+            Die();
         }
 
     }
@@ -60,7 +60,10 @@ public class PlayerManager : MonoBehaviour {
         // Death mechanics and logic here
         // Valar Morghulis
         playerIsDead = true;
+
         //reload scene?
+        UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+       
     }
 
     void OnTriggerEnter(Collider other)
@@ -74,13 +77,13 @@ public class PlayerManager : MonoBehaviour {
 
         if (other.tag == "collectableFood")
         {
-            hunger += 10f;
+            hunger -= 10f;
             Destroy(other.gameObject);
         }
 
         if (other.tag == "collectableLiquid")
         {
-            thirst += 20f;
+            thirst -= 20f;
             Destroy(other.gameObject);
         }
 
