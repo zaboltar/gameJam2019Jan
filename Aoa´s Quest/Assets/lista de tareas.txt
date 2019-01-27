@@ -1,23 +1,27 @@
 NECESITAMOS:
 
-assets de arte / diseno
+assets de arte / diseno (personaje)
 
-menu/scene management
+camera clamps
 
 climb, propiamente
 
 achicar el sprite cuando se aleja de la cam || no seguirle en eje z
 
-sistema de dialogos
+sistema de integracion entre escenas (navegacion y peleas)
 
 YA ESTA:
-
+menu/scene management (falta salir de combate de regreso a juego)
+assets de arte / diseno (fondos)
+sistema de dialogos
 click to move
 battlescene
 navMeshAgent
 collectables : food, liquid, treasure, medicine
 
 health manager 1 (para escenas fuera de combate)
+health manager 2 (dentro de combate)
++ finalizar combate
 
 lore / historia / argumento
 
