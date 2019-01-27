@@ -99,6 +99,11 @@ public class PlayerManager : MonoBehaviour {
             Destroy(other.gameObject);
         }
 
+        if (other.tag == "goToBattleScene")
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(2);
+        }
+
     }
 
 }
