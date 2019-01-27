@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 4aa59b16a4393b64f9ba83717c23ad01
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chromaticPaleolithicNatureSprites_0
+    21300002: chromaticPaleolithicNatureSprites_1
+    21300004: chromaticPaleolithicNatureSprites_2
+    21300006: chromaticPaleolithicNatureSprites_3
+    21300008: chromaticPaleolithicNatureSprites_4
+    21300010: chromaticPaleolithicNatureSprites_5
+    21300012: chromaticPaleolithicNatureSprites_6
+    21300014: chromaticPaleolithicNatureSprites_7
+    21300016: chromaticPaleolithicNatureSprites_8
+    21300018: chromaticPaleolithicNatureSprites_9
+    21300020: chromaticPaleolithicNatureSprites_10
+    21300022: chromaticPaleolithicNatureSprites_11
+    21300024: chromaticPaleolithicNatureSprites_12
+    21300026: chromaticPaleolithicNatureSprites_13
+    21300028: chromaticPaleolithicNatureSprites_14
+    21300030: chromaticPaleolithicNatureSprites_15
+    21300032: chromaticPaleolithicNatureSprites_16
+    21300034: chromaticPaleolithicNatureSprites_17
+    21300036: chromaticPaleolithicNatureSprites_18
+    21300038: chromaticPaleolithicNatureSprites_19
+    21300040: chromaticPaleolithicNatureSprites_20
+    21300042: chromaticPaleolithicNatureSprites_21
+    21300044: chromaticPaleolithicNatureSprites_22
+    21300046: chromaticPaleolithicNatureSprites_23
+    21300048: chromaticPaleolithicNatureSprites_24
+    21300050: chromaticPaleolithicNatureSprites_25
+    21300052: chromaticPaleolithicNatureSprites_26
+    21300054: chromaticPaleolithicNatureSprites_27
+    21300056: chromaticPaleolithicNatureSprites_28
+    21300058: chromaticPaleolithicNatureSprites_29
+    21300060: chromaticPaleolithicNatureSprites_30
+    21300062: chromaticPaleolithicNatureSprites_31
+    21300064: chromaticPaleolithicNatureSprites_32
+    21300066: chromaticPaleolithicNatureSprites_33
+    21300068: chromaticPaleolithicNatureSprites_34
+    21300070: chromaticPaleolithicNatureSprites_35
+    21300072: chromaticPaleolithicNatureSprites_36
+    21300074: chromaticPaleolithicNatureSprites_37
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 355
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa2016c2a44a884d96378e1510a458b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b6a6d25bf3d7c42a6ac8e616f102bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 340
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cde6504e7425747853d5ac6225853a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed46c38b66ed54e94a0de99ca9d30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 332
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d7c9c61de61845b28181d16f9f031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 341
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def80e0b6fb6c5d458be02d52023ae9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 334
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17212a8aeadd9cb4fbd363376010322b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 351
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ce2072f694494993b503d50ab1606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 351
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb6d2be13ce434cba8572f875d2820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 310
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119184ec42000984ea0cdb0b85e5d858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 309
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0171a09d177bb4dbe0e19d744319a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 246
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c2d4a79e67f54abc5ebb560de7ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 151
+        width: 62
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623ff82a3ceb52458903302634eae14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 245
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64841740e0d5a49b203d905fa2da2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 247
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6194a22ac4756b49b4178a71d7345cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 297
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ad91a40f0ad44c9954d20b86c88f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 299
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9369323bf7664d81fd07edd662d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 207
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b449e0a58fbe9d40b0b45a563bb635b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 254
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf507cc9c26124fb76fd3e46364ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 241
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f55fbc8e44c44ca169f4c745a1240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 243
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc192aa43f8662a44ae21553c472e76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 206
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b97e7e6ac67247addf763c6e93077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 160
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c87022ee2acd4abc31f07e13e76b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_23
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 201
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab196d020b96848b2835de9a64a630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 153
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9107e2b7823dd44b81ea4481ea95b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 162
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c97d8d1b44bd4e838daf41d0f15f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 155
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee6d95371d96f4294784cf2be57977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 183
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946437436e39ac46b999a83ed5d8ff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 184
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c5cf9c0300a6a43be2506e96b8e379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 206
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6bfe757e2c414194571bb774a4d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 102
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be3f94409cc0c4c8ae19328f4ae412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 86
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e34baa96bca1b408ee860d3ef83003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 90
+        width: 151
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25bbd2bd7da3a4699187affff3277b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 95
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e0db46b180344aa52d43b82e52b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 46
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c12f822f0dde4f842d61e39b3c2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 33
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d584036d6b49db45a06e22279c5fe5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 41
+        width: 152
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b53a49cdbfcdc4bb4a29ee7e819934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromaticPaleolithicNatureSprites_37
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 53
+        width: 85
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b8f59532f87af42afcb7e115ffde50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 73a3abdb4a4b23a4b80f396a114e8036
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
