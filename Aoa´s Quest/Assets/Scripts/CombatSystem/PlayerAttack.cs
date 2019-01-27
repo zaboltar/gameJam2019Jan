@@ -7,6 +7,7 @@ public class PlayerAttack : MonoBehaviour {
     Vector3 oldpos;
     public static float combat_player_hp;
     public static float combat_player_maxhp;
+    public static bool isDeath;
 
     public static float combat_player_attack;
     public GameObject damageText;
@@ -19,7 +20,7 @@ public class PlayerAttack : MonoBehaviour {
         //We should initialize this character hp and stuff here (so it can be different every time we enter a fight. 
         combat_player_hp = 100;
         combat_player_maxhp = 100;
-        combat_player_attack = 50;
+        combat_player_attack = 40;
     }
 
     // Update is called once per frame
@@ -56,6 +57,12 @@ public class PlayerAttack : MonoBehaviour {
             StartCoroutine(returnFromAttack()); 
 
         }
+        if(combat_player_hp <= 0)
+        {
+            isDeath = true;
+            Destroy(gameObject);
+        }
+
 
     }
 
@@ -73,5 +80,6 @@ public class PlayerAttack : MonoBehaviour {
         //Destroy text clone
         Destroy(clone);
     }
+
 
 }
