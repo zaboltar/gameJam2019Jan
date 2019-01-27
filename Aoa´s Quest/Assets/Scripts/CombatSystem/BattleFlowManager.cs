@@ -9,21 +9,36 @@ public class BattleFlowManager : MonoBehaviour
     public static int fightersLength;
     public static bool battleFieldsReady = false;
     public static float currentDamage = 0f;
-
+    public List<string> EnemyList;
     public PlayerAttack playerFighter;
     public EnemyAttack enemy;
 
+    private bool endFight = false;
 
     // Use this for initialization
     void Start()
     {
         fightersLength = 1;
         battleFieldsReady = true;
+        //This should be a method when we want more than 1 enemy
+        EnemyList.Add(EnemyAttack.enemy_name);
     }
 
     // Update is called once per frame
     void Update()
     {
+
+        //Check if all enemies or all players are death
+        if (EnemyAttack.isDeath || PlayerAttack.isDeath)
+        {
+            endFight = true;
+        }
+
+        if (endFight)
+        {
+            battleFieldsReady = false;
+            Debug.Log("Ended The Fight");
+        }
 
     }
 

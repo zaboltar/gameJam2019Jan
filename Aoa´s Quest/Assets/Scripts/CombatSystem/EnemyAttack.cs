@@ -8,6 +8,8 @@ public class EnemyAttack : MonoBehaviour {
     public int order;
     public static float combat_enemy_hp;
     public static float combat_enemy_maxhp;
+    public static bool isDeath;
+    public static string enemy_name = "enemy1";
     public float combat_enemy_attack;
     public GameObject damageText;
     private GameObject clone;
@@ -15,8 +17,8 @@ public class EnemyAttack : MonoBehaviour {
     // Use this for initialization
     void Start () {
         //We should initialize this character hp and stuff here (so it can be different every time we enter a fight. 
-        combat_enemy_hp = 550;
-        combat_enemy_maxhp = 550;
+        combat_enemy_hp = 100;
+        combat_enemy_maxhp = 100;
         combat_enemy_attack = 20;
     }
 
@@ -52,6 +54,12 @@ public class EnemyAttack : MonoBehaviour {
             clone.transform.SetParent(_canvas.transform);
 
             StartCoroutine(returnFromAttack());
+        }
+        if(combat_enemy_hp <= 0)
+        {
+            isDeath = true;
+            Destroy(gameObject);
+
         }
 
     }
