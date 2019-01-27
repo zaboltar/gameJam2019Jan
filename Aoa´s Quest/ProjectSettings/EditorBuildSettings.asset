@@ -12,12 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/startMenu.unity
     guid: 2abddae9f74e0c4428eae0ab397cfb39
   - enabled: 1
-    path: Assets/Scenes/ToolBoxAssetScene.unity
-    guid: 9519eb90512824c7a9c941e32a235b57
+    path: Assets/Scenes/TheTutorialEpisode.unity
+    guid: 300d1a63b9a0cde488fd9283dbc25ff1
   - enabled: 1
     path: Assets/Scenes/TurnBasedCombat.unity
     guid: b91f7804f67fe4de38935ca38f9c7681
   - enabled: 1
     path: Assets/Scenes/creditScene.unity
     guid: 99899f1500d21624da17379d0f15434a
+  - enabled: 0
+    path: Assets/Scenes/ToolBoxAssetScene.unity
+    guid: 9519eb90512824c7a9c941e32a235b57
   m_configObjects: {}
