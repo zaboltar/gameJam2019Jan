@@ -9,19 +9,20 @@ public class BattleFlowManager : MonoBehaviour
     public static int fightersLength;
     public static bool battleFieldsReady = false;
     public static float currentDamage = 0f;
-    public List<string> EnemyList;
+    //public List<string> EnemyList;
     public PlayerAttack playerFighter;
     public EnemyAttack enemy;
-
+    private static int whereHeCameFrom;
     private bool endFight = false;
 
     // Use this for initialization
     void Start()
     {
+        whereHeCameFrom = PlayerPrefs.GetInt("originScene");
         fightersLength = 1;
         battleFieldsReady = true;
         //This should be a method when we want more than 1 enemy
-        EnemyList.Add(EnemyAttack.enemy_name);
+        //EnemyList.Add(EnemyAttack.enemy_name);
     }
 
     // Update is called once per frame
@@ -36,8 +37,7 @@ public class BattleFlowManager : MonoBehaviour
 
         if (endFight)
         {
-            battleFieldsReady = false;
-            Debug.Log("Ended The Fight");
+            ExecuteOrder666();
         }
 
     }
@@ -78,6 +78,21 @@ public class BattleFlowManager : MonoBehaviour
             EnemyAttack.combat_enemy_hp -= currentDamage;
         }
 
+    }
+
+    public static void ExecuteOrder666()
+    {
+        battleFieldsReady = false;
+        //here we need to go back to the scene (if the player wons)
+        if (EnemyAttack.isDeath)
+        {
+            PlayerPrefs.SetInt("commingFromBattle", 1);
+            UnityEngine.SceneManagement.SceneManager.LoadScene(whereHeCameFrom);
+        }
+        else
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(4);
+        }
     }
 
     //or nai

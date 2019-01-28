@@ -72,11 +72,11 @@
     <Compile Include="Assets\Scripts\spriteFollow.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <None Include="Assets\lista de tareas.txt" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/THERCO/Documents/Coding/unity cleto stuff/gameJam2019Jan/Aoa´s Quest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/THERCO/Documents/Coding/unity cleto stuff/gameJam2019Jan/Aoa´s Quest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/THERCO/Documents/Coding/unity cleto stuff/gameJam2019Jan/Aoa´s Quest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
